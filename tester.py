@@ -26,7 +26,7 @@ def loopF(loopNo,inputNo):
     time.sleep(1)
 
     for i in range(1,11):
-        run = "./the1 < " + inputDir + "/" + str(i) + ".txt" + " > yourOutput/" + str(loopNo) + "-" + str(i) + ".txt"
+        run = "./the1 < " + inputDir + "/" + str(i) + ".txt"
         stream = os.popen(run)
         output = stream.read()
 
