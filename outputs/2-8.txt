@@ -1,0 +1,12 @@
+X:10 r:-3 Y:0
+X:10 r:-3 Y:-1
+X:10 r:-3 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:11 r:-3 Y:0
+X:11 r:-3 Y:-1
+X:11 r:-3 Y:-2
+X:12 r:-3 Y:0
+X:12 r:-3 Y:-1
+X:12 r:-3 Y:-2
+X:13 r:-3 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.

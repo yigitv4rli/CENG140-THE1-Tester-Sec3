@@ -1,0 +1,129 @@
+X:10 r:-3 Y:0
+X:10 r:-3 Y:-1
+X:10 r:-3 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:-2 Y:0
+X:10 r:-2 Y:-1
+X:10 r:-2 Y:-2
+X:10 r:-2 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:-1 Y:0
+X:10 r:-1 Y:-1
+X:10 r:-1 Y:-2
+X:10 r:-1 Y:-3
+X:10 r:-1 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:0 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:1 Y:0
+X:10 r:1 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:2 Y:0
+X:10 r:2 Y:-1
+X:10 r:2 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:3 Y:0
+X:10 r:3 Y:-1
+X:10 r:3 Y:-2
+X:10 r:3 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:10 r:4 Y:0
+X:10 r:4 Y:-1
+X:10 r:4 Y:-2
+X:10 r:4 Y:-3
+X:10 r:4 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:-3 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:-2 Y:0
+X:13 r:-2 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:-1 Y:0
+X:13 r:-1 Y:-1
+X:13 r:-1 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:0 Y:0
+X:13 r:0 Y:-1
+X:13 r:0 Y:-2
+X:13 r:0 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:1 Y:0
+X:13 r:1 Y:-1
+X:13 r:1 Y:-2
+X:13 r:1 Y:-3
+X:13 r:1 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:2 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:3 Y:0
+X:13 r:3 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:13 r:4 Y:0
+X:13 r:4 Y:-1
+X:13 r:4 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:-3 Y:0
+X:16 r:-3 Y:-1
+X:16 r:-3 Y:-2
+X:16 r:-3 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:-2 Y:0
+X:16 r:-2 Y:-1
+X:16 r:-2 Y:-2
+X:16 r:-2 Y:-3
+X:16 r:-2 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:-1 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:0 Y:0
+X:16 r:0 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:1 Y:0
+X:16 r:1 Y:-1
+X:16 r:1 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:2 Y:0
+X:16 r:2 Y:-1
+X:16 r:2 Y:-2
+X:16 r:2 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:3 Y:0
+X:16 r:3 Y:-1
+X:16 r:3 Y:-2
+X:16 r:3 Y:-3
+X:16 r:3 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:16 r:4 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:-3 Y:0
+X:19 r:-3 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:-2 Y:0
+X:19 r:-2 Y:-1
+X:19 r:-2 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:-1 Y:0
+X:19 r:-1 Y:-1
+X:19 r:-1 Y:-2
+X:19 r:-1 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:0 Y:0
+X:19 r:0 Y:-1
+X:19 r:0 Y:-2
+X:19 r:0 Y:-3
+X:19 r:0 Y:-4
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:1 Y:0
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:2 Y:0
+X:19 r:2 Y:-1
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:3 Y:0
+X:19 r:3 Y:-1
+X:19 r:3 Y:-2
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
+X:19 r:4 Y:0
+X:19 r:4 Y:-1
+X:19 r:4 Y:-2
+X:19 r:4 Y:-3
+JUST MAGIC OF FIVE HAPPENED!...Continuing with next ’r’ value.
