@@ -1,0 +1,180 @@
+X:8 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:8 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:8 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:8 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:8 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:8 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:7 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:7 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:7 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:7 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:7 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:7 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:6 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:6 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:6 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:6 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:6 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:6 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:5 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:5 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:5 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:5 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:5 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:5 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:4 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:4 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:4 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:4 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:4 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:4 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:3 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:3 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:3 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:3 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:3 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:3 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:2 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:2 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:2 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:2 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:2 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:2 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:1 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:1 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:1 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:1 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:1 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:1 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:0 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:0 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:0 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:0 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:0 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:0 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-1 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-1 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-1 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-1 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-1 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-1 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-2 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-2 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-2 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-2 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-2 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-2 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-3 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-3 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-3 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-3 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-3 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-3 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-4 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-4 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-4 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-4 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-4 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-4 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-5 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-5 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-5 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-5 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-5 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-5 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-6 r:4 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-6 r:4 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-6 r:16 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-6 r:16 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
+X:-6 r:28 Y:29 z:-27 A:6 a:46 c:19 x:19
+JUST MAGIC OF THREE HAPPENED!...Continuing with next ’A’ value.
+X:-6 r:28 Y:29 z:-27 A:11 a:46 c:19 x:19
+JUST OF THREE HAPPENED!...Continuing with next ’r’ value.
