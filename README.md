@@ -1,6 +1,6 @@
 # CENG140-THE1-Tester-Sec3
 
-* Tester for CENG140 
+* CENG140 THE1 Tester for Section3
 * Tester is written in Python2.7
 * Since it includes some bash commands and gcc compiler, it is recommended to use Mac or Linux.
 
