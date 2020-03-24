@@ -6,7 +6,7 @@ wrong_answer = 0
 progress = 1
 
 def areSame(test, correct):
-	if test == correct:
+	if test == correct or (test == "" and correct == "\n"):
 		return 1
 
 	return 0
